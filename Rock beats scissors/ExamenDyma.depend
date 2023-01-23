@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1615809980 source:d:\exercicis_progrmacio\examendyma\main.c
+	<stdio.h>
+	<stdlib.h>
+	"FuncionsPropies.h"
+
+1612948415 d:\exercicis_progrmacio\examendyma\funcionspropies.h
+	<stdlib.h>
+	<stdio.h>
+
