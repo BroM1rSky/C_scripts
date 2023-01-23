@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1622551757 source:d:\santweek_exercises\recuperacio_uf2\escola_rp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"FuncionsPropies.h"
+
+1612952015 d:\santweek_exercises\recuperacio_uf2\escola_rp\funcionspropies.h
+	<stdlib.h>
+	<stdio.h>
+
